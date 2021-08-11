@@ -1,0 +1,3 @@
+A Compiler scans entire program and converts it into object code.Thee object code is can be directly executed by the machine after linking.
+
+Interpreter will check each statement(line by line) and converts to machine code.An Interpreter directly executes instructions without previously converting them to an object code
